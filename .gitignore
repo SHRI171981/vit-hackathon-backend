@@ -1,0 +1,6 @@
+Data/
+.env
+venv/
+__pycache__/
+local_models/
+hf_deployment/models/
